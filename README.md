@@ -8,7 +8,7 @@ Mesagge Encryption
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/CryptHackers
+* git clone https://github.com/emrekybs/CryptoKing.git
 
 * cd CryptHackers
 

@@ -20,8 +20,8 @@ Mesagge Encryption
 
 # Decrypting
 
-<img src="https://github.com/emrekybs/CryptoKing/blob/main/2.PNG">
+<img src="https://github.com/emrekybs/CryptoKing/blob/main/1.PNG">
 
-<h3> Paypal donations: </h3>
 
-* https://www.paypal.me/AngelSecurityTeam
+
+

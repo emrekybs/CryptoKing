@@ -12,13 +12,11 @@ Mesagge Encryption
 
 * cd CryptHackers
 
-* python3 crypthackers.py
+* python3 CryptoKing.py
 
-# Encrypting
 
 <img src="https://github.com/emrekybs/CryptoKing/blob/main/2.PNG">
 
-# Decrypting
 
 <img src="https://github.com/emrekybs/CryptoKing/blob/main/1.PNG">
 
